@@ -1,6 +1,6 @@
 # JavaScript-Projects
 
-This repository houses my JavaScript projects. Currently I have two completed projects. 
+This repository houses my JavaScript projects. 
 
 Project 1: Under the Sea Pizza
 For this project I created a pizza menu. This menu will read the selected items and provide the customer with an itemized receipt plus the order total.
