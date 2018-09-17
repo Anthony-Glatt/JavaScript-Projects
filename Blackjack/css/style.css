@@ -1,0 +1,14 @@
+body{
+	background-image: url("../img/cards.png");
+	background-repeat: no-repeat;
+	background-size: 100% 900px;
+	max-width: 250px;
+	margin: auto;
+}
+
+.playground{
+	background-color: #f2eff0;
+	height: 430px;
+	width: 250px;
+	text-align: center;
+}
