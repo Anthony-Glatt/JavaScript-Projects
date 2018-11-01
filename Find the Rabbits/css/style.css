@@ -3,9 +3,9 @@ html {
 }
 
 .box {
-  height: 100px;
-  width: 100px;
-  background-color: chartreuse;
+  height: 200px;
+  width: 375px;
+  background-image: url("../img/bush.png");
   margin: 75px;
   float: left;
 }
