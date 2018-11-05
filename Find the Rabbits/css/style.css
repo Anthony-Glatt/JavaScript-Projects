@@ -17,3 +17,7 @@ html {
   margin: 75px;
   float: left;
 }
+
+.tryAgainBtn {
+  padding: 15px;
+}

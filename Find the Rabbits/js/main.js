@@ -12,8 +12,11 @@ function behindTheBox(number, snakeLocation) {
 
 function lostGame() {
   const tryAgainB = document.createElement("button");
+  tryAgainB.className = "tryAgainBtn";
   const tryAgainT = document.createTextNode("Try Again?");
   tryAgainB.appendChild(tryAgainT);
-  tryAgainB.onclick = location.reload();
+  tryAgainB.onclick = function() {
+    location.reload();
+  };
   document.body.appendChild(tryAgainB);
 }
