@@ -10,3 +10,6 @@ For this project I created the classic card game BlackJack. The program creates 
 
 Project 3: Find the Rabbits
 This project is a game of luck. The goal is to click on the bushes to hopefully find a rabbit. If you find all seven rabbits then you win. If you come across the snake though, you lose. I am still adding to this game.
+
+Project 4: React - Counter App
+This project is my first step into the world of React. At the top of the page is a bootstrap navbar with a badge that contains a counter for how many counters have values greater than zero. Using React I am able to dynamically create counters with an increment and delete button. With either of these buttons being clicked, the display is dynamically modified. Alongside these buttons there is also a reset button, that will reset the counters back to zero. 
